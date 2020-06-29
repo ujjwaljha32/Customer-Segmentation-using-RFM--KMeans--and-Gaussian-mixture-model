@@ -1,0 +1,2 @@
+# Customer Segmentation using RFM, KMeans, and Gaussian mixture model
+ In this project, our main goal is to group these clients in customer segments by using a clustering technique. Here, we’ll be using K-Means. However, how to group these clients? Which variables to use? We can try to analyse the customers by using the RFM (recency, frequency, monetary value) approach. This method is used to evaluate customer value and we’ll talk more about it later.
